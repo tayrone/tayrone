@@ -1,12 +1,12 @@
 <h3 align = "center">
-  » Data Analyst   <br/> 
+  » Data Engineer   <br/> 
   » Bioinformatician  <br/> 
   » Computer Engineer </h3>
   
   
 <h4 align = "center"> Hi! I am Tayrone. </h4> 
 
-📈 I am a Data Science enthusiast with a Bachelor degree in Computer Engineering and a Master's degree in Bioinformatics.
+📈 I am a Data Engineer with a Bachelor degree in Computer Engineering and a Master's degree in Bioinformatics.
 
 🧬 I previously worked on [@biomegroup](https://github.com/biomegroup), 
 analyzing several types of data from [Medulloblastoma](https://en.wikipedia.org/wiki/Medulloblastoma) patients. 
