@@ -8,8 +8,7 @@
 
 📈 I am a Data Engineer with a Bachelor degree in Computer Engineering and a Master's degree in Bioinformatics.
 
-🧬 I previously worked on [@biomegroup](https://github.com/biomegroup), 
-analyzing several types of data from [Medulloblastoma](https://en.wikipedia.org/wiki/Medulloblastoma) patients. 
+🧬 I currently work at InRad - HCFMUSP, São Paulo, Brazil.
 
 👨‍💻 I mostly program in R and Python. I am also proficient in Shell Scripting, SQL and Power BI. <br/> 
 
