@@ -12,4 +12,4 @@
 
 👨‍💻 I mostly program in R and Python. I am also proficient in Shell Scripting, SQL and Power BI. <br/> 
 
-📥 If you are interested in my career and/or want to check my contact information, check out my [LinkedIn](https://www.linkedin.com/in/tayronem/) and my [CV](https://github.com/tayrone/cv_sketch/blob/main/Tayrone_Monteiro_CV%20(English:Portugu%C3%AAs).pdf).
+📥 If you are interested in my career and/or want to check my contact information, check out my [LinkedIn](https://www.linkedin.com/in/tayronem/) and my [CV](https://github.com/tayrone/cv_sketch).
