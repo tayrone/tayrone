@@ -8,7 +8,7 @@
 
 📈 I am a Data Engineer with a Bachelor degree in Computer Engineering and a Master's degree in Bioinformatics.
 
-🏥 I currently work at the Oncoclinicas Group, the greatest healthcare institution for cancer treatment in latin america.
+🏥 I currently work at the Oncoclinicas Group, the greatest healthcare institution for cancer treatment in Latin America.
 
 👨‍💻 I mostly program in Python. I am also proficient in SQL, R and Shell Scripting. <br/> 
 
