@@ -8,8 +8,6 @@
 
 📈 I am a Data Engineer with a Bachelor degree in Computer Engineering and a Master's degree in Bioinformatics.
 
-🏥 I currently work at the Oncoclinicas Group, the greatest healthcare institution for cancer treatment in Latin America.
-
 👨‍💻 I mostly program in Python. I am also proficient in SQL, R and Shell Scripting. <br/> 
 
 📥 If you are interested in my career and/or want to check my contact information, check out my [LinkedIn](https://www.linkedin.com/in/tayronem/) and my [CV](https://github.com/tayrone/cv_sketch).
