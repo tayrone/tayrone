@@ -1,7 +1,5 @@
 <h3 align = "center">
-  » Data Engineer   <br/> 
-  » Bioinformatician  <br/> 
-  » Computer Engineer </h3>
+  » Senior Data Engineer   <br/> 
   
   
 <h4 align = "center"> Hi! I am Tayrone. </h4> 
